@@ -17,11 +17,11 @@
   "license": "MIT",
   "dependencies": {},
   "devDependencies": {
-    "istanbul": "^0.3.2",
-    "jsdom": "^1.0.1",
+    "istanbul": "^0.4.5",
+    "jsdom": "^9.8.3",
     "make-lint": "^1.0.1",
-    "mocha": "^1.21.4",
-    "should": "^4.0.4"
+    "mocha": "^3.1.2",
+    "should": "^11.1.1"
   },
   "files": [
     "lib",
